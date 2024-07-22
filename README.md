@@ -11,7 +11,7 @@ Simple Shell is a simple Unix shell implemented in C, featuring basic command ex
   - `help`: Display a help menu describing shell usage.
   - `pat`: Print the contents of a file (similar to `cat`).
 - **Signal Handling**: Handles `SIGINT` (Ctrl+C) and `SIGTSTP` (Ctrl+Z) signals.
-- **Save Command History**: Save history of commands automatically to `.my_shell_history `.
+- **Save Command History**: Save history of commands automatically to `.my_shell_history`.
 
 ## Installation
 1. Clone the Repository 
